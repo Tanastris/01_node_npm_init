@@ -1,0 +1,20 @@
+{
+  "name": "01_node_npm_init",
+  "version": "1.0.0",
+  "description": "first npm project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "app"
+  ],
+  "author": "Rokas V",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
